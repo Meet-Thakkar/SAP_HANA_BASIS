@@ -1,0 +1,53 @@
+o Kernel upgradation.
+o Applying Support Packs and add-on installation via SPAM/SAINT/SUM.
+o Background Job management: Defining Background job and monitoring the job Status and restarting the terminated jobs, Scheduling SAP Housekeeping Jobs.
+o Profile Parameter Maintenance.
+o Configuring Operation Modes.
+o Spool Administration.
+o Daily Monitoring and Performance troubleshooting of SAP Systems. (ECC, BW, SCM, SRM, PO, EH&S, MDM, Fiori, GRC, TREX, Solman, CRM, etc)
+o Configuring Logon Load Balancing
+o Importing Languages into SAP system.
+o Performing client administration like client creation, client copy, client export and import, remote client copy and assigning logical system name to client.
+o Configuring RFC Connection using SM59.
+o Configuring SAP Transport Routes using STMS.
+o Change Request Management: Releasing Task and Change Request Change the Owner of the Task and Change Request.
+o Importing the Transport Request Using STMS_IMPORT, Manually Importing the Transport Request Using TP at OS level.
+o Taking Database Backup using BRTOOLS and DB13.
+o Table space Administration: Checking for space problems in table space, removing unnecessary files from OS and adding data file to table space using BRTOOLS.
+o Performing Homogenous system copy.
+o Locking & unlocking of Users and T-codes.
+o System performance alerting, System Availability monitoring (ABAP / Portal).
+o HANA patching and components upgrade.
+o Experienced in SAP Web Dispatcher, SAC and CPI-DS.
+o Hands on with HANA1.0 and HANA2.0.
+o Worked on Oracle, SQL, MAXDB and HANA database including DB parameter tuning, SYS/DB refresh.
+o SAP HANA Platform Administration
+o Conversant with Certificate Authentication/SSL Configuration.
+o SAP LT Replication Server Administration.
+o Configuration of Solution Manager 7.1/7.2
+o Administration of SAP Content Server and Repositories.
+o SAP Printer configuration and troubleshooting.
+o Configuring SAP Transport paths and troubleshooting Transport issues.
+o Experience on SNOW, HPALM ticketing tools.
+o Performance tuning, interface troubleshooting, etc.
+o Administering ALE, Idoc.
+o Incident/ problem management.
+o OSS (Incidents, SAP Notes implementation, Standard modification).
+o Worked on Solman configurations like Central monitoring, ChARM, Managed system configuration, Wily Introscope.
+o Worked on complex SAP Landscape, involving new dimension products, on cluster environment with HA enablement, etc
+o System refreshes and transport management.
+o Good exposure on SAP Basis on Oracle, SQL Server, HANA Databases on Unix/Windows platforms.
+o Experience working with portal system and Java stack administration.
+o Experience working with application specific basis activities on PI / BW / APO / Live Cache.
+o Weekly VM Patching and ABAP System Maintenance activity.
+o Manage SAP on Linux.
+o MS Office Intermediate level.
+o Hand on experience in SAP S/4 HANA
+o Administration of 3rd party tool like Live-Compare, Gold Client, Uperfoam, Approva, GTS, etc
+o Management of 3rd party Job scheduler tool like TIDAL, Cronacle, etc
+o Creating Developer/ Object Keys.
+o Start and Stop of SAP and Oracle Applications.
+o Print Server Migration Project
+o Maintaining audit requirements.
+o Steered collaboration with clients and system owners to effectively analyse and improve system performance.
+o 100 % SLA compliance in project.
